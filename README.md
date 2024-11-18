@@ -1,16 +1,53 @@
-## Hi there 👋
+## Hi there
 
-<!--
-**kyrofrosted/kyrofrosted** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a computer science student. I enjoy listening to music, creating video games, configuring windows/linux, and learning new programming languages.
 
-Here are some ideas to get you started:
+### Currently working on
+- Building personal projects and contributing to open-source
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently learning
+- Kotlin  
+- Swift  
+
+### Looking to collaborate on
+- Game development  
+- Open-source contributions  
+
+### Looking for help with
+- Exploring new frameworks and libraries
+
+### Ask me about
+- Programming languages  
+- Text editor configurations  
+
+### How to reach me
+- [Email](mailto:xev@cumallover.me)
+
+### Pronouns
+- He/Him  
+
+---
+
+## My Setup
+- **Editor**: Neovim (no distro)  
+- **Terminal**: Wezterm  
+- **OS**: Windows 11, macOS, Arch Linux (with i3wm)  
+- **Devices**:  
+  - Lenovo LOQ RTX 4060  
+  - M1 MacBook Pro  
+
+---
+
+## Programming Languages
+- C  
+- C++  
+- C#  
+- JavaScript/TypeScript  
+- Python  
+- Rust  
+- Java  
+- Golang  
+- Lua  
+- SQL  
+- Haskell  
+- Ruby
