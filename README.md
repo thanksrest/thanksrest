@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Cassidy, and I'm a computer science student and developer, from Osaka, Japan</h2>
+<h2 align="left">Hi 👋! My name is Cassidy, and I'm a comp sci student and developer from Osaka, Japan</h2>
 
 ###
 
@@ -67,7 +67,5 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/thanksrest/thanksrest/output/snake.svg" alt="Snake animation" />
 
 ###
