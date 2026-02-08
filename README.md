@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Cassidy, and I'm a comp sci student and developer from Osaka, Japan</h2>
+<h2 align="left">Hi 👋! My name is Cassidy, and I'm a comp sci student and developer</h2>
 
 ###
 
