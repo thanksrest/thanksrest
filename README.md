@@ -27,7 +27,7 @@
 	<a href="https://octo-ring.com/p/thanksrest/next">&rarr;</a>
 </p>
 
-<p align="center">~-~ credit for this readme goes to yuna0x0 ~-~
+<p align="center">~-~ credit for this readme goes to yuna0x0 ~-~</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thanksrest/thanksrest/output/pacman-contribution-graph-dark.svg">
