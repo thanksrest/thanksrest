@@ -14,8 +14,6 @@
 
 <p align="center">i'm a computer science student building things i care about</p>
 
-<p align="center">~-~ credit for this readme goes to yuna0x0 ~-~ </p>
-
 <p align="center">
   <strong><a href="https://kyrofrost.xyz">Website</a></strong> |
   <strong><a href="https://youtube.com/@frostiieeeee">YouTube</a></strong> |
@@ -29,14 +27,12 @@
 	<a href="https://octo-ring.com/p/thanksrest/next">&rarr;</a>
 </p>
 
+<p align="center">~-~ credit for this readme goes to yuna0x0 ~-~
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thanksrest/thanksrest/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thanksrest/thanksrest/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/thanksrest/thanksrest/output/pacman-contribution-graph.svg">
 </picture>
-
-###
-
-<img src="https://raw.githubusercontent.com/thanksrest/thanksrest/output/snake.svg" alt="Snake animation" />
 
 ###
